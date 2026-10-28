@@ -9,7 +9,7 @@ A 12-week plan to get good at JavaScript and TypeScript, working up to writing r
 **Course:** Boot.dev *Learn JavaScript*
 
 ### Focus areas
-- [ ] Functions and arrow functions (`const add = (a, b) => a + b`)
+- [x] Functions and arrow functions (`const add = (a, b) => a + b`)
 - [ ] Objects and arrays
 - [ ] Array methods: `map`, `filter`, `find`, `forEach`
 - [ ] Promises and `async`/`await` (the most important topic for Playwright, so don't rush it)
